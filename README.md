@@ -1,5 +1,5 @@
 # expense-tracker
-An expense-tracker API that lets you record your income and expenses. It uses NodeJS and MongoDB for the backend and ReactJS for the front-end. Authentication will be added later
+An expense-tracker API that lets you record your income and expenses. It uses NodeJS and MongoDB for the backend and ReactJS for the front-end. Authentication might be added later
 
 
 You have to create a config.env in the config folder. 
