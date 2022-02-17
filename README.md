@@ -9,3 +9,4 @@ PORT=The port you want to use
 MONGO_URI=The mongo db URI with your username and password
 
 
+![expense-tracker](https://user-images.githubusercontent.com/43302360/154559207-312464f8-d5c1-4f38-89bf-8006860ea63d.png)
